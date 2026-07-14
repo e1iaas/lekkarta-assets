@@ -1,0 +1,2 @@
+# lekkarta-assets
+assets
